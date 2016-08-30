@@ -1,0 +1,9 @@
+name: ArenaDuels
+version: 1.0-SNAPSHOT
+author: macguy8 for HCFactions
+main: net.hcfactions.duels.DuelsPlugin
+
+commands:
+  Duel:
+  Accept:
+  ArenaDuels:
